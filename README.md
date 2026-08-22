@@ -1,4 +1,3 @@
-# Minshuai Ding, Ph.D.
 
 ### [CV](assets/Minshuai_Ding_CV_Public.pdf) | [Research](research.html) | [Teaching](teaching.html) | [Applied Research](applied-research.html) | [Public Writing](public-writing.html) | [Google Scholar](https://scholar.google.com/citations?user=xLLOB-oAAAAJ)
 
