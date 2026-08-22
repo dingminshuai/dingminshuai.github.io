@@ -1,7 +1,7 @@
 
 ### [CV](assets/Minshuai_Ding_CV_Public.pdf) | [Research](research.html) | [Teaching](teaching.html) | [Applied Research](applied-research.html) | [Public Writing](public-writing.html) | [Google Scholar](https://scholar.google.com/citations?user=xLLOB-oAAAAJ)
 
-I am a public administration scholar and applied researcher at the **Bureau of Sociological Research, University of Nebraska-Lincoln**. I earned my Ph.D. in Public Administration from the University of Nebraska at Omaha, with a specialization in Urban Management, and my MPA from Rutgers University-Newark.
+I am a public administration scholar and applied researcher, and currently project manager II at the **Bureau of Sociological Research, University of Nebraska-Lincoln**. I earned my Ph.D. in Public Administration from the University of Nebraska at Omaha, with a specialization in Urban Management, and my MPA from Rutgers University-Newark.
 
 My research examines how institutional design shapes the capacity of public organizations to control, protect, produce, and use resources. One line of work focuses on **urban and local governance and special-purpose governments**, including the effects of governmental boundaries on personnel, service continuity, and fiscal risk. A second line brings public administration and survey research into closer conversation by studying how governments **produce evidence and how that evidence enters administrative and policy decisions**.
 
