@@ -28,7 +28,8 @@ My current 50-state project uses the federally mandated **National Youth in Tran
 
 ### Current Working Paper
 
-- **When Evidence-Based Governance Becomes Disconnected: Evidence Production and Evidence Incorporation in U.S. State Governments.** Manuscript complete; preprint submitted to SSRN, pending posting.
+- **When Evidence-Based Governance Becomes Disconnected: From Production to Evidence Incorporation in U.S. State Governments.** Manuscript complete; preprint submitted to SSRN, pending posting. SSRN Preprint, 2026.
+DOI: 10.2139/ssrn.7315938
 
 # Publications
 
