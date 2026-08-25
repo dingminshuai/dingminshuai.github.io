@@ -12,7 +12,7 @@ My academic research is closely connected to applied work with state agencies, l
 
 ## Current Working Papers
 
-- **When Evidence-Based Governance Becomes Disconnected: Evidence Production and Evidence Incorporation in U.S. State Governments.** Manuscript complete; SSRN Preprint. https://dx.doi.org/10.2139/ssrn.7315938
+- **When Evidence-Based Governance Becomes Disconnected: Evidence Production and Evidence Incorporation in U.S. State Governments.** Manuscript complete; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7315938)
 - **When Governance Boundaries Matter: Special-Purpose Government, Control Rights, and Crisis Response in U.S. Public Libraries.** Advanced manuscript.
 - **When Fiscal Boundaries Matter: Special-Purpose Governance and Downside Fiscal Risk in U.S. Public Libraries.** Advanced manuscript.
 
