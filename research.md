@@ -9,18 +9,23 @@ title: Research
 
 My research has developed over many years around two related questions: how public institutions allocate authority and resources, and how governments produce and use evidence.
 
-## Urban and Local Governance
+## Agenda #1: Urban and Local Governance
 
 My first line of work examines **urban and local governance, special-purpose government, organizational boundaries, and local public management**. My doctoral dissertation compared special-purpose and general-purpose transit agencies. I have since extended that work to public libraries, mayors, emergency management, and cross-sector coproduction.
 
 My current special-purpose government research asks not simply whether one institutional form performs better than another, but **when governmental boundaries become consequential and what they do**. Using public libraries as a comparative setting, I study crisis-time personnel redeployment, service continuity, fiscal exposure, and downside fiscal risk. This work treats special districts as an important but still incompletely understood form of American urban and local governance.
 
 ### Current Working Papers
+- **The Administrative Consequences of Fragmentation: Special-Purpose Government and Resource Redeployment in Crisis.** Manuscript complete; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7424298)
+- **When Boundaries Matter: Special-Purpose Governance and Fiscal Vulnerability in Times of Crisis.** Advanced manuscript. Submitted to ASPA 2027
 
-- **When Governance Boundaries Matter: Special-Purpose Government, Control Rights, and Crisis Response in U.S. Public Libraries.** Advanced manuscript.
-- **When Fiscal Boundaries Matter: Special-Purpose Governance and Downside Fiscal Risk in U.S. Public Libraries.** Advanced manuscript.
 
-## Government Evidence and Survey Research
+## Progressing Working Papers
+- **Governing Citizen Voice: Evidence Production and Use in U.S. Local Government Community Surveys** (Coauthored with Wanzhu Shi, forthcoming 2027)
+- **Organizational Resources and Service Resilience Across Two Crises: Evidence from U.S. Public Libraries** (forthcoming 2027)
+
+
+## Agenda #2: Government Evidence and Survey Research
 
 A second line of research treats government surveys not simply as methodological instruments but as part of the **evidence infrastructure of government**. I am interested in both sides of the process: whether public organizations can reliably produce evidence and whether that evidence subsequently enters programmatic, managerial, budgetary, or policy decisions.
 
@@ -30,6 +35,7 @@ My current 50-state project uses the federally mandated **National Youth in Tran
 
 - **When Evidence-Based Governance Becomes Disconnected: From Production to Evidence Incorporation in U.S. State Governments.** Manuscript complete; preprint submitted to SSRN, pending posting. SSRN Preprint, 2026.
 DOI: [10.2139/ssrn.7315938](https://dx.doi.org/10.2139/ssrn.7315938)
+
 
 # Publications
 
