@@ -16,8 +16,8 @@ My first line of work examines **urban and local governance, special-purpose gov
 My current special-purpose government research asks not simply whether one institutional form performs better than another, but **when governmental boundaries become consequential and what they do**. Using public libraries as a comparative setting, I study crisis-time personnel redeployment, service continuity, fiscal exposure, and downside fiscal risk. This work treats special districts as an important but still incompletely understood form of American urban and local governance.
 
 ### Current Working Papers
-- **The Administrative Consequences of Fragmentation: Special-Purpose Government and Resource Redeployment in Crisis.** Manuscript complete; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7424298)
-- **When Boundaries Matter: Special-Purpose Governance and Fiscal Vulnerability in Times of Crisis.** Advanced manuscript. Submitted to ASPA Annual Conference 2027.
+- **The Administrative Consequences of Fragmentation: Special-Purpose Government and Resource Redeployment in Crisis.** Complete manuscript; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7424298)
+- **When Boundaries Matter: Special-Purpose Governance and Fiscal Vulnerability in Times of Crisis.** Coauthored with Dr.Ming Xie (UMBC). Complete manuscript. Submitted to ASPA Annual Conference 2027.
 - **Organizational Resources and Service Resilience Across Two Crises: Evidence from U.S. Public Libraries** (forthcoming 2027)
 
 
@@ -29,9 +29,9 @@ My current 50-state project uses the federally mandated **National Youth in Tran
 
 ### Current Working Paper
 
-- **When Evidence-Based Governance Becomes Disconnected: From Production to Evidence Incorporation in U.S. State Governments.** Manuscript complete; preprint submitted to SSRN, pending posting. SSRN Preprint, 2026.
+- **When Evidence-Based Governance Becomes Disconnected: From Production to Evidence Incorporation in U.S. State Governments.** Complete manuscript; preprint submitted to SSRN, pending posting. SSRN Preprint, 2026.
 DOI: [10.2139/ssrn.7315938](https://dx.doi.org/10.2139/ssrn.7315938)
-- **Governing Citizen Voice: Evidence Production and Use in U.S. Local Government Community Surveys** (Coauthored with Wanzhu Shi, forthcoming 2027)
+- **Governing Citizen Voice: Evidence Production and Use in U.S. Local Government Community Surveys.** Coauthored with Dr. Wanzhu Shi (UNF), forthcoming 2027)
 
 
 # Publications
