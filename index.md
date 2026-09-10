@@ -13,7 +13,7 @@ My academic research is closely connected to applied work with state agencies, l
 ## Current Working Papers
 
 - **When Evidence-Based Governance Becomes Disconnected: Evidence Production and Evidence Incorporation in U.S. State Governments.** Manuscript complete; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7315938)
-- **Do Library Districts Build Fiscal Resilience? Evidence from the Great Recession and COVID-19** (Coauthored with Ming Xie; SSRN Preprint. [DOI]（https://dx.doi.org/10.2139/ssrn.7424298）
+- **Do Library Districts Build Fiscal Resilience? Evidence from the Great Recession and COVID-19** (Coauthored with Ming Xie; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7424298)
 - **When Fiscal Boundaries Matter: Special-Purpose Governance and Downside Fiscal Risk in U.S. Public Libraries.** Advanced manuscript.
 
 ## Selected Publications
