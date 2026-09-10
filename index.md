@@ -10,11 +10,15 @@ My research examines how institutional design shapes the capacity of public orga
 
 My academic research is closely connected to applied work with state agencies, local and community organizations, nonprofits, and universities. At UNL, I manage survey-based policy research and program evaluation across behavioral health, education, public health, agriculture, sustainability, and community research.
 
-## Current Working Papers
+## Advanced Manuscripts
 
 - **When Evidence-Based Governance Becomes Disconnected: Evidence Production and Evidence Incorporation in U.S. State Governments.** Manuscript complete; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7315938)
 - **The Administrative Consequences of Fragmentation: Special-Purpose Government and Resource Redeployment in Crisis.** (Manuscript complete; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7424298)
-- **When Fiscal Boundaries Matter: Special-Purpose Governance and Downside Fiscal Risk in U.S. Public Libraries.** Advanced manuscript.
+- **Title: When Boundaries Matter: Special-Purpose Governance and Fiscal Vulnerability in Times of Crisis.** Advanced manuscript.
+
+## Progressing Working Papers
+- **Governing Citizen Voice: Evidence Production and Use in U.S. Local Government Community Surveys** (Coauthored with Wanzhu Shi, forthcoming 2027)
+- **Organizational Resources and Service Resilience Across Two Crises: Evidence from U.S. Public Libraries** (forthcoming 2027)
 
 ## Selected Publications
 
