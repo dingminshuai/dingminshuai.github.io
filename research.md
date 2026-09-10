@@ -18,7 +18,7 @@ My current special-purpose government research asks not simply whether one insti
 ### Current Working Papers
 - **The Administrative Consequences of Fragmentation: Special-Purpose Government and Resource Redeployment in Crisis.** Complete manuscript; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7424298)
 - **When Boundaries Matter: Special-Purpose Governance and Fiscal Vulnerability in Times of Crisis.** Coauthored with Dr.Ming Xie (UMBC). Complete manuscript. Submitted to ASPA Annual Conference 2027.
-- **Organizational Resources and Service Resilience Across Two Crises: Evidence from U.S. Public Libraries** (forthcoming 2027)
+- **Organizational Resources and Service Resilience Across Two Crises: Evidence from U.S. Public Libraries.** Forthcoming 2027.
 
 
 ## Agenda #2: Government Evidence and Survey Research
