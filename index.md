@@ -14,7 +14,7 @@ My academic research is closely connected to applied work with state agencies, l
 
 - **When Evidence-Based Governance Becomes Disconnected: Evidence Production and Evidence Incorporation in U.S. State Governments.** Manuscript complete; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7315938)
 - **The Administrative Consequences of Fragmentation: Special-Purpose Government and Resource Redeployment in Crisis.** Manuscript complete; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7424298)
-- **Title: When Boundaries Matter: Special-Purpose Governance and Fiscal Vulnerability in Times of Crisis.** Advanced manuscript.
+- **When Boundaries Matter: Special-Purpose Governance and Fiscal Vulnerability in Times of Crisis.** Coauthored with Dr.Ming Xie (UMBC). Complete manuscript. Submitted to ASPA Annual Conference 2027.
 
 ## Progressing Working Papers
 - **Governing Citizen Voice: Evidence Production and Use in U.S. Local Government Community Surveys.** Coauthored with Dr. Wanzhu Shi (UNF). Forthcoming 2027.
