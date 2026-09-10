@@ -17,7 +17,7 @@ My academic research is closely connected to applied work with state agencies, l
 - **Title: When Boundaries Matter: Special-Purpose Governance and Fiscal Vulnerability in Times of Crisis.** Advanced manuscript.
 
 ## Progressing Working Papers
-- **Governing Citizen Voice: Evidence Production and Use in U.S. Local Government Community Surveys** (Coauthored with Wanzhu Shi, forthcoming 2027)
+- **Governing Citizen Voice: Evidence Production and Use in U.S. Local Government Community Surveys.** Coauthored with Dr. Wanzhu Shi (UNF). Forthcoming 2027.
 - **Organizational Resources and Service Resilience Across Two Crises: Evidence from U.S. Public Libraries** (forthcoming 2027)
 
 ## Selected Publications
