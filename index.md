@@ -13,7 +13,7 @@ My academic research is closely connected to applied work with state agencies, l
 ## Advanced Manuscripts
 
 - **When Evidence-Based Governance Becomes Disconnected: Evidence Production and Evidence Incorporation in U.S. State Governments.** Manuscript complete; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7315938)
-- **The Administrative Consequences of Fragmentation: Special-Purpose Government and Resource Redeployment in Crisis.** (Manuscript complete; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7424298)
+- **The Administrative Consequences of Fragmentation: Special-Purpose Government and Resource Redeployment in Crisis.** Manuscript complete; SSRN Preprint. [DOI](https://dx.doi.org/10.2139/ssrn.7424298)
 - **Title: When Boundaries Matter: Special-Purpose Governance and Fiscal Vulnerability in Times of Crisis.** Advanced manuscript.
 
 ## Progressing Working Papers
@@ -25,7 +25,7 @@ My academic research is closely connected to applied work with state agencies, l
 - Olson, K., Ding, M., & Ganshert, A. (2025). The effects of Spanish-language materials in a local area ABS mixed-mode survey on response rates and sample composition: An experiment. *Survey Practice, 19* (Special Issue). [DOI](https://doi.org/10.29115/SP-2024-0019)
 - Ding, M. (2024). From City Hall to Twitter: Navigating political context in U.S. mayors' online engagement. *Communication and the Public, 9*(1), 114-127. [DOI](https://doi.org/10.1177/20570473231224819)
 - Oh, N., Ding, M., & Kim, Y. (2024). How do non-Western authoritarian countries respond to disasters? Structural difference from the pluralistic model. *International Review of Administrative Sciences, 90*(4), 845-862. [DOI](https://doi.org/10.1177/00208523241231703)
-- Ding, M. (2025). Turning the page: When a library becomes a special district. In R. Blair & K. Nelson (Eds.), *Managing Local Government: Cases in Effectiveness* (2nd ed.). International City/County Management Association.
+- Ding, M. (2025). Turning the page: When a library becomes a special district. In R. Blair & K. Nelson (Eds.), *Managing Local Government: Cases in Effectiveness* (2nd ed.). International City/County Management Association.[ICMA](https://icma.org/articles/article/managing-local-government-cases-effectiveness-second-edition)
 - Ding, M. (2022). Mobile applications for flood emergency management in China: Functionality, usefulness and coproduction. *China Media Research, 18*(1), 38–66.
 
 ## Recognition
